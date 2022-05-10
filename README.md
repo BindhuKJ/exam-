@@ -1,2 +1,2 @@
 # exam-
-exam repo
+exam repo for git commands demostration
